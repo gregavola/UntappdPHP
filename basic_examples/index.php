@@ -1,6 +1,6 @@
 <?php
 
-require ("../lib/untappdPHP.php");
+include ("../lib/untappdPHP.php");
 
 // add your client_id, client_secret, redirect_uri available at https://untappd.com/api
 $client_id = "CLIENT_ID";

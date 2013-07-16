@@ -1,6 +1,6 @@
 <?php
 
-require ("../lib/untappdPHP.php");
+include ("../lib/untappdPHP.php");
 
 // Set your client ID, client secreet, redirect URI
 $client_id = "CLIENT_ID";
