@@ -10,7 +10,7 @@ PHP 5+<br />
 CURL<br />
 
 # Getting Started
-In order to get access the API - go https://untappd.com/api and request a API token. Please note it may take up to 2 weeks to a API keys. Only application ideas are accepeted at this time to perserve infrastruture and bandwidth.
+In order to get access the API - go https://untappd.com/api and request an API token. Please note it may take up to 2 weeks to a API keys. Only application ideas are accepeted at this time to perserve infrastruture and bandwidth.
 
 Follow the instructions in <code>oauth_examples/..</code> for a detailed example of the OAuth authentication. If you want basic authentication examples, please see the <code>basic_examples/..</code> folder.
 
@@ -27,6 +27,8 @@ If you are using non-authenticated calls - all you need to do is use the <code>g
 $ut = new UntappdPHP(client_id, client_secret);
 $res = $ut->get(METHOD_HERE, PARAMS_HERE);
 </pre>
+
+For full details on the documentations of the API visit https://untappd.com/api/docs
 
 # To Do
 Error Handling
