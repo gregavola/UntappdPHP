@@ -3,7 +3,7 @@ UntappdPHP
 
 A simple way to connect to the Untappd API to make calls in PHP
 
-This a library written to interact with the Untappd API (https://untappd.com/api) using both oAuth Authenticated Calls and Non-Authenticated calls. I am the one of co-founder of Untappd, and we use a similar piece of code on untappd.com.<br />
+This a library written to interact with the Untappd API (https://untappd.com/api) using both oAuth Authenticated Calls and Non-Authenticated calls. I am one of co-founder of Untappd, and we use a similar piece of code on untappd.com.<br />
 
 # Requirements
 PHP 5+<br />
